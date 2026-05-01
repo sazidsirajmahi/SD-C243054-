@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class 10Nop{
+public class 10No{
 public static void main(String[]args){
  Scanner sc=new Scanner(System.in);
   int b1=sc.nextInt();
